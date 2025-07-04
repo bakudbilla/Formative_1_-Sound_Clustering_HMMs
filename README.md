@@ -41,7 +41,7 @@ This project explores unsupervised clustering techniques on unlabeled sound data
 - **DBSCAN** struggled due to lack of density separation, which is common in noisy or overlapping feature sets.
 
 ## How to run the notebook
-You can directly open it on colab OR
+You can directly open the notebook on colab OR
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).
 2. Upload the notebook file:  
    `File > Upload notebook`
