@@ -39,3 +39,11 @@ This project explores unsupervised clustering techniques on unlabeled sound data
 - **Dimensionality reduction** was crucial in revealing patterns hidden in the high-dimensional MFCC space.
 - **K-Means** worked better due to its ability to form spherical clusters in the PCA-reduced space.
 - **DBSCAN** struggled due to lack of density separation, which is common in noisy or overlapping feature sets.
+
+## How to run the notebook
+You can directly open it on colab OR
+1. Open the notebook in [Google Colab](https://colab.research.google.com/).
+2. Upload the notebook file:  
+   `File > Upload notebook`
+3. Run the cells in order. If any required libraries are missing, you can install them directly in a cell using pip (e.g., `!pip install seaborn`).
+4. Upload the unlabelled sound dataset to be able to load the data and run the codes.
